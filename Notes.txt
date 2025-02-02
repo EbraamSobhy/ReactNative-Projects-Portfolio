@@ -1,0 +1,7 @@
+For each React Native app in your portfolio:
+
+Project Title & Description – Briefly explain what the app does.
+Tech Stack – Mention React Native, Firebase, or any other tools used.
+Screenshots – Add images of the app on mobile devices.
+Demo Video (Optional) – Upload a short video on YouTube or GitHub and embed it.
+GitHub Repository Link – If the code is public, share the repo.
